@@ -1,1 +1,1 @@
-# javascript_content
+# JavaScriptES6
